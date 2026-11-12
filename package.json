@@ -1,7 +1,7 @@
 {
-  "name": "paypal-ai-hackathon",
+  "name": "creditpay-ai",
   "version": "1.0.0",
-  "description": "An AI agent integrated with PayPal Sandbox Orders API",
+  "description": "AI-powered credit simulation and PayPal checkout agent",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -9,8 +9,8 @@
   },
   "dependencies": {
     "@paypal/checkout-server-sdk": "^1.0.3",
-    "dotenv": "^16.4.0",
+    "dotenv": "^16.4.5",
     "express": "^4.19.2",
-    "openai": "^4.0.0"
+    "openai": "^4.33.0"
   }
 }
