@@ -5,8 +5,8 @@ An intelligent AI agent integrated with the PayPal Sandbox Orders API to securel
 
 ## Key Features
 - AI-Driven Intention Processing:Uses advanced LLMs to evaluate user requests and decide when a transaction is required.
-- PayPal Sandbox Integration:** Programmatically generates orders and approval links using the official PayPal Checkout SDK.
-- Secure & Autonomous:** Built for agentic commerce applications.
+- PayPal Sandbox Integration:Programmatically generates orders and approval links using the official PayPal Checkout SDK.
+- Secure & Autonomous:Built for agentic commerce applications.
 
 Tech Stack
 -Backend:Node.js & Express
